@@ -1,0 +1,37 @@
+div.text-center{
+    background-color: rgb(142, 142, 142);
+}
+h1.header_text {
+    text-align: center;
+    color: rgb(255,255,255);
+}
+
+.container-fluid {
+    background: rgb(189, 187, 187);
+    outline: .05px double black;
+    padding: 7%;
+}
+
+#btn-lg {
+    text-align: center;
+}
+
+#latest_news {
+  background-color: rgb(255, 161, 127);
+}
+
+.marsinfo-box{
+    background: rgb(255,255,255);
+    outline: .05px double black;
+    padding: 7%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+figcaption.img_h_caption{
+    text-align: center;
+}
+
